@@ -1,2 +1,2 @@
 dataclass
-List
+typing
